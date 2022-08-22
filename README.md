@@ -1,4 +1,4 @@
-# Naziv projekta: Generate classical music
+# SR: Naziv projekta: Generate classical music
 
 Kratak opis projekta: 
 
@@ -10,7 +10,7 @@ Tadej Gojić 79/2018 i Teodora Vasić 1/2018
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Project: Generate classical music
+# EN: Project: Generate classical music
 
 Brief description: 
 
